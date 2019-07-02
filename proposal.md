@@ -89,5 +89,4 @@ Parsing HTML has it's issues and should be avoided if there is an easier strateg
 - Discuss limitations of web scraping
 
 ## Additional Notes
-
-## Additional Requirements
+The files that would be presented are already created.  They live within the github repository at https://github.com/haleysam93/web_data_mining_talk.
